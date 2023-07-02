@@ -1094,6 +1094,9 @@ input[type=submit]:hover {
 .tip-text{
     padding: 1% 0;
 }
+.tip-text p:first-child{
+    font-weight: bold;
+}
 
 @media screen and (max-width: 768px) 
 {   
